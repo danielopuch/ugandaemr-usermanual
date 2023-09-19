@@ -14,7 +14,8 @@
      * Comprehensive dashboards for appointments including weekly appointment's coverage.
 
 <!-- -->
-3. **SMS Patient Reminders** 
+3. **SMS Patient Reminders**
+   *Provides basis for soliciting SMS consent from clients
    * Enrolling patients into the SMS program to receive reminders of their upcoming facility visit / appointment.
    * Customization of facility messages sent out to the patients.
    * Provide a list of all patients enrolled on the SMS program.
